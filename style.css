@@ -49,5 +49,11 @@ nav {
 }
 
 #cancelQuiz{
+    border: none;
+    border-radius: 3px;
+    background-color: chartreuse;
+    font-weight: 700;
+    cursor: pointer;
+    
     
 }
